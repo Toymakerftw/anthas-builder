@@ -1,0 +1,2 @@
+sudo apt -y install bc python2
+sudo bash ./main.sh
